@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d1a459d-be26-4178-bb04-1404e53e0237" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DSA Homework Detelin Radev/src/com/telerikacademy/ScroogeMcDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA Homework Detelin Radev/src/com/telerikacademy/ScroogeMcDuck2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DSA Homework Detelin Radev/src/com/telerikacademy/Solve2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Homework Detelin Radev/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DSA Homework Detelin Radev/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Homework Detelin Radev/out/production/Stack&amp;Queue/com/telerikacademy/Challenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DSA Homework Detelin Radev/out/production/Stack&amp;Queue/com/telerikacademy/Challenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Homework Detelin Radev/out/production/Stack&amp;Queue/com/telerikacademy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DSA Homework Detelin Radev/out/production/Stack&amp;Queue/com/telerikacademy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Homework Detelin Radev/src/com/telerikacademy/Challenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DSA Homework Detelin Radev/src/com/telerikacademy/Challenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Homework Detelin Radev/src/com/telerikacademy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DSA Homework Detelin Radev/src/com/telerikacademy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA Workshop DoublyLinkedList/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work items management/src/telerikProject/models/workItemsImpl/BugImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work items management/src/telerikProject/models/workItemsImpl/BugImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work items management/src/telerikProject/models/workItemsImpl/StoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work items management/src/telerikProject/models/workItemsImpl/StoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work items management/src/telerikProject/models/workItemsImpl/WorkItemsBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Work items management/src/telerikProject/models/workItemsImpl/WorkItemsBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/META-INF/Agency.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/Startup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/CommandImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/add/AddCommentBugCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/add/AddCommentFeedbackCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/add/AddCommentStoryCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/add/AddPersonToTeamCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/assign/AssignWorkItemCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/change/ChangeBugPriorityCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/change/ChangeBugSeverityCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/change/ChangeBugStatusCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/change/ChangeFeedbackRatingCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/change/ChangeFeedbackStatusCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/change/ChangeStoryPriorityCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/change/ChangeStorySizeCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/change/ChangeStoryStatusCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/contracts/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/create/CreateBoardCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/create/CreateBugCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/create/CreateFeedbackCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/create/CreateMemberCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/create/CreateStoryCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/create/CreateTeamCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/filter/FilterWorkItemsByAssigneeCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/filter/FilterWorkItemsByStatusAndAssigneeCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/filter/FilterWorkItemsByStatusCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/list/ListAllWorkItemsCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/list/ListBugsCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/list/ListFeedbackCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/list/ListStoriesCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/show/ShowBoardActivityCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/show/ShowMemberActivityCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/show/ShowMembersCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/show/ShowTeamActivityCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/show/ShowTeamBoardsCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/show/ShowTeamMembersCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/show/ShowTeamsCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/sort/SortByPriorityCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/sort/SortByRatingCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/sort/SortBySeverityCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/sort/SortBySizeCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/sort/SortByTitleCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/commands/unassign/UnassignWorkItemCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/core/EngineImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/core/contracts/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/core/contracts/Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/core/contracts/Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/core/contracts/Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/core/factories/CreationsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/core/factories/CreationsFactoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/core/factories/WorkItemsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/core/factories/WorkItemsFactoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/core/providers/CommandParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/core/providers/ConsoleReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/core/providers/ConsoleWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/enumTypes/PriorityType$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/enumTypes/PriorityType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/enumTypes/SeverityType$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/enumTypes/SeverityType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/enumTypes/SizeType$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/enumTypes/SizeType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/enumTypes/StatusType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/enumTypes/StatusTypeBug$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/enumTypes/StatusTypeBug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/enumTypes/StatusTypeFeedback$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/enumTypes/StatusTypeFeedback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/enumTypes/StatusTypeStory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/enumTypes/StatusTypeStory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/team/contracts/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/team/contracts/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/team/contracts/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/teamImpl/BoardImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/teamImpl/MemberImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/teamImpl/TeamImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/workItems/contracts/Bug.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/workItems/contracts/Feedback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/workItems/contracts/Story.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/workItems/contracts/WorkItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/workItems/contracts/WorkItemsWithPriority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/workItemsImpl/BugImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/workItemsImpl/FeedbackImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/workItemsImpl/StoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProject/models/workItemsImpl/WorkItemsBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/ListTests/ListAllWorkItemsTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/ListTests/ListBugsTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/ListTests/ListFeedbackTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/ListTests/ListStoriesTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/ShowTests/ShowBoardActivityTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/ShowTests/ShowMemberActivityTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/ShowTests/ShowMembersTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/ShowTests/ShowTeamActivityTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/ShowTests/ShowTeamBoardsTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/ShowTests/ShowTeamMembersTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/ShowTests/ShowTeamsTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/SortTests/SortByPriorityTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/SortTests/SortByRatingTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/SortTests/SortBySeverityTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/SortTests/SortBySizeTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/SortTests/SortByTitleTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/addTests/AddCommentBugTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/addTests/AddCommentFeedbackTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/addTests/AddCommentStoryTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/addTests/AddPersonToTeamTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/assignTests/AssignWorkItemTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/changeTests/ChangeBugPriorityTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/changeTests/ChangeBugSeverityTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/changeTests/ChangeBugStatusTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/changeTests/ChangeFeedbackRatingTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/changeTests/ChangeFeedbackStatusTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/changeTests/ChangeStoryPriorityTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/changeTests/ChangeStorySizeTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/changeTests/ChangeStoryStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/createTests/CreateBoardTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/createTests/CreateBugTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/createTests/CreateFeedbackTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/createTests/CreateMemberTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/createTests/CreateStoryTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/createTests/CreateTeamTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/filterTests/FilterWorkItemsByAssigneeAndStatusTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/filterTests/FilterWorkItemsByAssigneeTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/filterTests/FilterWorkItemsByStatusTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/commandsTest/unassign/UnassignWorkItemTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/coreTests/CommandParserTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/coreTests/WorkItemFactoryImplShould.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/modelsTests/BoardImplTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/modelsTests/BugImplTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/modelsTests/FeedbackImplTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/modelsTests/MemberImplTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/modelsTests/StoryImplTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/modelsTests/TeamImplTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Agency/telerikProjectUnitTests/modelsTests/WorkitemBaseTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProject/core/providers/CommandParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProject/core/providers/CommandParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProject/models/workItemsImpl/BugImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProject/models/workItemsImpl/BugImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProject/models/workItemsImpl/StoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProject/models/workItemsImpl/StoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProject/models/workItemsImpl/WorkItemsBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProject/models/workItemsImpl/WorkItemsBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ListTests/ListAllWorkItemsTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ListTests/ListAllWorkItemsTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ListTests/ListBugsTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ListTests/ListBugsTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ListTests/ListFeedbackTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ListTests/ListFeedbackTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ListTests/ListStoriesTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ListTests/ListStoriesTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowBoardActivityTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowBoardActivityTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowMemberActivityTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowMemberActivityTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowMembersTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowMembersTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowTeamActivityTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowTeamActivityTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowTeamBoardsTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowTeamBoardsTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowTeamMembersTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowTeamMembersTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowTeamsTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/ShowTests/ShowTeamsTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/SortTests/SortByPriorityTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/SortTests/SortByPriorityTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/SortTests/SortByRatingTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/SortTests/SortByRatingTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/SortTests/SortBySeverityTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/SortTests/SortBySeverityTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/SortTests/SortBySizeTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/SortTests/SortBySizeTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/SortTests/SortByTitleTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/SortTests/SortByTitleTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/createTests/CreateMemberTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/createTests/CreateMemberTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/createTests/CreateTeamTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/createTests/CreateTeamTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/filterTests/FilterWorkItemsByAssigneeTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/filterTests/FilterWorkItemsByAssigneeTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/filterTests/FilterWorkItemsByStatusTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/commandsTest/filterTests/FilterWorkItemsByStatusTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/modelsTests/BugImplTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/modelsTests/BugImplTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/modelsTests/FeedbackImplTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/modelsTests/FeedbackImplTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/modelsTests/StoryImplTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/modelsTests/StoryImplTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/modelsTests/TeamImplTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/modelsTests/TeamImplTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/modelsTests/WorkitemBaseTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Work items management/telerikProjectUnitTests/modelsTests/WorkitemBaseTests.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/WorkItemManagement$All_in_Agency.ic" NAME="All in Agency Coverage Results" MODIFIED="1555502364159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/WorkItemManagement$.ic" NAME=" Coverage Results" MODIFIED="1555495807022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/WorkItemManagement$telerikProject_models_workItemsImpl_in_Agency.ic" NAME="telerikProject.models.workItemsImpl in Agency Coverage Results" MODIFIED="1555496452699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>telerikProject.models.workItemsImpl.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="182" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Detelin Radev &lt;clover88bg@yahoo.com&gt;" />
+        <option value="D" />
+        <option value="Anton Madzharov &lt;anton.madzharovbs@gmail.com&gt;" />
+        <option value="Anton Madzharov &lt;anton.madzharovbs@gmail.com&gt;дребол" />
+        <option value="Anton Madzharov &lt;anton.madzharovbs@gmail.com&gt;TES" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1Qami6XWrrOYYz0BJKHeoYxYroQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555502670053" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Startup">
+    <configuration name="Startup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="telerikProject.Startup" />
+      <module name="Work items management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="telerikProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddCommentBugTests.AddCommentBugTests_ShouldAddComment_WhenPassedCorrectParameters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Work items management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="telerikProjectUnitTests.commandsTest.addTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="telerikProjectUnitTests.commandsTest.addTests" />
+      <option name="MAIN_CLASS_NAME" value="telerikProjectUnitTests.commandsTest.addTests.AddCommentBugTests" />
+      <option name="METHOD_NAME" value="AddCommentBugTests_ShouldAddComment_WhenPassedCorrectParameters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssignWorkItemTests.assignWorkItem_ShouldAssignWorkItem_WhenCorrectParametersParsed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Work items management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="telerikProjectUnitTests.commandsTest.assignTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="telerikProjectUnitTests.commandsTest.assignTests" />
+      <option name="MAIN_CLASS_NAME" value="telerikProjectUnitTests.commandsTest.assignTests.AssignWorkItemTests" />
+      <option name="METHOD_NAME" value="assignWorkItem_ShouldAssignWorkItem_WhenCorrectParametersParsed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeBugPriorityTests.ChangeBugPriorityTests_ShouldChangePriority_WhenPassedCorrectParameters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Work items management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="telerikProjectUnitTests.commandsTest.changeTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="telerikProjectUnitTests.commandsTest.changeTests" />
+      <option name="MAIN_CLASS_NAME" value="telerikProjectUnitTests.commandsTest.changeTests.ChangeBugPriorityTests" />
+      <option name="METHOD_NAME" value="ChangeBugPriorityTests_ShouldChangePriority_WhenPassedCorrectParameters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommandParserTests.FindCommandCreatePerson_ShouldCreateNewObjectCommand_WhenCorrectParametersPassed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Work items management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="telerikProjectUnitTests.coreTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="telerikProjectUnitTests.coreTests" />
+      <option name="MAIN_CLASS_NAME" value="telerikProjectUnitTests.coreTests.CommandParserTests" />
+      <option name="METHOD_NAME" value="FindCommandCreatePerson_ShouldCreateNewObjectCommand_WhenCorrectParametersPassed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Startup" />
+      <item itemvalue="JUnit.AddCommentBugTests.AddCommentBugTests_ShouldAddComment_WhenPassedCorrectParameters" />
+      <item itemvalue="JUnit.AssignWorkItemTests.assignWorkItem_ShouldAssignWorkItem_WhenCorrectParametersParsed" />
+      <item itemvalue="JUnit.ChangeBugPriorityTests.ChangeBugPriorityTests_ShouldChangePriority_WhenPassedCorrectParameters" />
+      <item itemvalue="JUnit.CommandParserTests.FindCommandCreatePerson_ShouldCreateNewObjectCommand_WhenCorrectParametersPassed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Startup" />
+        <item itemvalue="JUnit.ChangeBugPriorityTests.ChangeBugPriorityTests_ShouldChangePriority_WhenPassedCorrectParameters" />
+        <item itemvalue="JUnit.AddCommentBugTests.AddCommentBugTests_ShouldAddComment_WhenPassedCorrectParameters" />
+        <item itemvalue="JUnit.AssignWorkItemTests.assignWorkItem_ShouldAssignWorkItem_WhenCorrectParametersParsed" />
+        <item itemvalue="JUnit.CommandParserTests.FindCommandCreatePerson_ShouldCreateNewObjectCommand_WhenCorrectParametersPassed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d1a459d-be26-4178-bb04-1404e53e0237" name="Default Changelist" comment="" />
+      <created>1554029255177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554029255177</updated>
+      <workItem from="1559131672283" duration="1218000" />
+      <workItem from="1559583317982" duration="9000" />
+      <workItem from="1561976191352" duration="1817000" />
+      <workItem from="1563402189981" duration="647000" />
+      <workItem from="1568017207212" duration="638000" />
+    </task>
+    <task id="LOCAL-00011" summary="Amend Solution">
+      <created>1554036513603</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554036513603</updated>
+    </task>
+    <task id="LOCAL-00012" summary="TEST">
+      <created>1554036613400</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1554036613400</updated>
+    </task>
+    <task id="LOCAL-00013" summary="TEST">
+      <created>1554036697837</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1554036697837</updated>
+    </task>
+    <task id="LOCAL-00014" summary="TEST">
+      <created>1554036746242</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1554036746242</updated>
+    </task>
+    <task id="LOCAL-00015" summary="TEST">
+      <created>1554036805843</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1554036805843</updated>
+    </task>
+    <task id="LOCAL-00016" summary="TEST">
+      <created>1554037471099</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1554037471099</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Amend Solution">
+      <created>1554042535280</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1554042535280</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Amend Solution">
+      <created>1554048144469</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1554048144470</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Amend Solution">
+      <created>1554048750133</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1554048750133</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Amend Solution">
+      <created>1554050385070</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1554050385070</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Amend Solution">
+      <created>1554052128475</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1554052128475</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Amend Solution">
+      <created>1554052257133</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1554052257133</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Amend Solution">
+      <created>1554056120598</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1554056120598</updated>
+    </task>
+    <task id="LOCAL-00024" summary="End of day ONE">
+      <created>1554058815707</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1554058815707</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Amend solution">
+      <created>1554122829432</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1554122829432</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Amend solution">
+      <created>1554133701272</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1554133701272</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Amend solution">
+      <created>1554135539129</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1554135539129</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Amend solution">
+      <created>1554208652430</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1554208652430</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Amend solution">
+      <created>1554214838528</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1554214838528</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Amend change command">
+      <created>1554411499292</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1554411499292</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Print method improved">
+      <created>1554416035540</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1554416035540</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Print method improved part1">
+      <created>1554416269170</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1554416269170</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Print method improved part1">
+      <created>1554477480964</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1554477480964</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Amend solution">
+      <created>1554722779753</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1554722779753</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Sort commands">
+      <created>1554765408474</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1554765408474</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Show commands">
+      <created>1554887823084</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1554887823084</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Show commands">
+      <created>1554925240276</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1554925240276</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Show commands">
+      <created>1554925766840</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1554925766840</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Show commands">
+      <created>1554996821943</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1554996821943</updated>
+    </task>
+    <task id="LOCAL-00040" summary="implementation">
+      <created>1554999507276</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1554999507276</updated>
+    </task>
+    <task id="LOCAL-00041" summary="test">
+      <created>1555001371263</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1555001371263</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Little bugs fixed for printing and clean code applied">
+      <created>1555022377751</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1555022377751</updated>
+    </task>
+    <task id="LOCAL-00043" summary="clean code applied">
+      <created>1555023900905</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1555023900905</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fixed team activity">
+      <created>1555145759263</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1555145759263</updated>
+    </task>
+    <task id="LOCAL-00045" summary="amend solution">
+      <created>1555156890628</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1555156890628</updated>
+    </task>
+    <task id="LOCAL-00046" summary="дреболии">
+      <created>1555188343016</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1555188343016</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Identifying the differences">
+      <created>1555335182915</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1555335182915</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Fixed public ID">
+      <created>1555337269850</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1555337269850</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Deleted some commented lines">
+      <created>1555337317217</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1555337317217</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Finalizing the project">
+      <created>1555388163424</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1555388163427</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Starting Unit Tests">
+      <created>1555423047748</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1555423047750</updated>
+    </task>
+    <task id="LOCAL-00052" summary="тестове">
+      <created>1555454303011</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1555454303011</updated>
+    </task>
+    <task id="LOCAL-00053" summary="unit Tests command change">
+      <created>1555512921349</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1555512921350</updated>
+    </task>
+    <task id="LOCAL-00054" summary="тест">
+      <created>1555513284449</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1555513284449</updated>
+    </task>
+    <task id="LOCAL-00055" summary="тест">
+      <created>1555514617565</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1555514617565</updated>
+    </task>
+    <task id="LOCAL-00056" summary="unit tests commands add,show,list">
+      <created>1555521962692</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1555521962692</updated>
+    </task>
+    <task id="LOCAL-00057" summary="test">
+      <created>1555531579615</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1555531579615</updated>
+    </task>
+    <task id="LOCAL-00058" summary="filter command bug fixed">
+      <created>1555533705306</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1555533705306</updated>
+    </task>
+    <task id="LOCAL-00059" summary="improvements:&#10; print methods including option for empty list&#10; some unnecessary new lines when printing removed &#10; agency name replaced with work item management&#10; new validation added if command has body but does not have command&#10; separator">
+      <created>1555781428115</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1555781428116</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_Agency - 2019.04.17 at 23h 42m 54s.xml">
+      <configuration name="All in Agency" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Agency - 2019.04.18 at 12h 04m 01s.xml">
+      <configuration name="All in Agency" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommandParserTests_FindCommandCreatePerson_ShouldCreateNewObjectCommand_WhenCorrectParametersPassed - 2019.04.18 at 12h 12m 05s.xml">
+      <configuration name="CommandParserTests.FindCommandCreatePerson_ShouldCreateNewObjectCommand_WhenCorrectParametersPassed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssignWorkItemTests_assignWorkItem_ShouldAssignWorkItem_WhenCorrectParametersParsed - 2019.04.18 at 22h 55m 05s.xml">
+      <configuration name="AssignWorkItemTests.assignWorkItem_ShouldAssignWorkItem_WhenCorrectParametersParsed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssignWorkItemTests_assignWorkItem_ShouldAssignWorkItem_WhenCorrectParametersParsed - 2019.04.18 at 22h 55m 34s.xml">
+      <configuration name="AssignWorkItemTests.assignWorkItem_ShouldAssignWorkItem_WhenCorrectParametersParsed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AssignWorkItemTests_assignWorkItem_ShouldAssignWorkItem_WhenCorrectParametersParsed - 2019.04.18 at 22h 56m 04s.xml">
+      <configuration name="AssignWorkItemTests.assignWorkItem_ShouldAssignWorkItem_WhenCorrectParametersParsed" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddCommentBugTests_AddCommentBugTests_ShouldAddComment_WhenPassedCorrectParameters - 2019.04.18 at 23h 02m 39s.xml">
+      <configuration name="AddCommentBugTests.AddCommentBugTests_ShouldAddComment_WhenPassedCorrectParameters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddCommentBugTests_AddCommentBugTests_ShouldAddComment_WhenPassedCorrectParameters - 2019.04.18 at 23h 03m 19s.xml">
+      <configuration name="AddCommentBugTests.AddCommentBugTests_ShouldAddComment_WhenPassedCorrectParameters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChangeBugPriorityTests_ChangeBugPriorityTests_ShouldChangePriority_WhenPassedCorrectParameters - 2019.04.18 at 23h 06m 22s.xml">
+      <configuration name="ChangeBugPriorityTests.ChangeBugPriorityTests_ShouldChangePriority_WhenPassedCorrectParameters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ChangeBugPriorityTests_ChangeBugPriorityTests_ShouldChangePriority_WhenPassedCorrectParameters - 2019.04.20 at 15h 56m 27s.xml">
+      <configuration name="ChangeBugPriorityTests.ChangeBugPriorityTests_ShouldChangePriority_WhenPassedCorrectParameters" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+    <MESSAGE value="Amend change command" />
+    <MESSAGE value="Print method improved" />
+    <MESSAGE value="Print method improved part1" />
+    <MESSAGE value="Amend solution" />
+    <MESSAGE value="Sort commands" />
+    <MESSAGE value="Show commands" />
+    <MESSAGE value="implementation" />
+    <MESSAGE value="Clean code applied to my part of commands" />
+    <MESSAGE value="Little bugs fixed for printing and clean code applied" />
+    <MESSAGE value="clean code applied" />
+    <MESSAGE value="fixed team activity" />
+    <MESSAGE value="amend solution" />
+    <MESSAGE value="дреболии" />
+    <MESSAGE value="Identifying the differences" />
+    <MESSAGE value="Fixed public ID" />
+    <MESSAGE value="Deleted some commented lines" />
+    <MESSAGE value="Finalizing the project" />
+    <MESSAGE value="Starting Unit Tests" />
+    <MESSAGE value="тестове" />
+    <MESSAGE value="unit Tests command change" />
+    <MESSAGE value="тест" />
+    <MESSAGE value="unit tests commands add,show,list" />
+    <MESSAGE value="test" />
+    <MESSAGE value="filter command bug fixed" />
+    <MESSAGE value="improvements:&#10; print methods including option for empty list&#10; some unnecessary new lines when printing removed &#10; agency name replaced with work item management&#10; new validation added if command has body but does not have command&#10; separator" />
+    <option name="LAST_COMMIT_MESSAGE" value="improvements:&#10; print methods including option for empty list&#10; some unnecessary new lines when printing removed &#10; agency name replaced with work item management&#10; new validation added if command has body but does not have command&#10; separator" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Work items management/src/telerikProject/commands/listing/ListBugsCommand.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Work items management/src/telerikProject/commands/listing/ListWorkItems.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WorkItemManagement$All_in_AgencyProject.ic" NAME="All in AgencyProject Coverage Results" MODIFIED="1555445426156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/WorkItemManagement$telerikProjectUnitTests_in_Agency.ic" NAME="telerikProjectUnitTests in Agency Coverage Results" MODIFIED="1555452690039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>telerikProjectUnitTests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/WorkItemManagement$All_in_Agency.ic" NAME="All in Agency Coverage Results" MODIFIED="1555578236130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/WorkItemManagement$telerikProject_in_Agency.ic" NAME="telerikProject in Agency Coverage Results" MODIFIED="1555445479730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>telerikProject.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/WorkItemManagement$AddCommentBugTests_AddCommentBugTests_ShouldAddComment_WhenPassedCorrectParameters.ic" NAME="AddCommentBugTests.AddCommentBugTests_ShouldAddComment_WhenPassedCorrectParameters Coverage Results" MODIFIED="1555515176009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>telerikProjectUnitTests.commandsTest.addTests.*</FILTER>
+    </SUITE>
+  </component>
+</project>
