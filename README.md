@@ -1,4 +1,4 @@
-OOP Teamwork Project
+OOP Teamwork Project - first project for Telerik Java Alpha Track
 
 Project Description
 
